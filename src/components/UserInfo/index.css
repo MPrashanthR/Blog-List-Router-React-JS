@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+.user-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-image {
+  width: 150px;
+  height: 150px;
+}
+
+.profile-name {
+  color: #12022f;
+  font-family: Roboto;
+  font-size: 28px;
+}
+.profile-designation {
+  color: #9aa5b1;
+  font-family: Roboto;
+  font-size: 15px;
+}
